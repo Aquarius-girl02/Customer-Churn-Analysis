@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Mac system files
+.DS_Store
+
+# Database files
+*.db
+*.sqlite
+*.sqlite3
+
+# Raw dataset files
+data/*
+!data/.gitkeep
