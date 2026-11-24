@@ -108,8 +108,8 @@ The project follows a structured analytical workflow:
 - [x] SQL analysis
 - [x] Python data loading and inspection
 - [x] Python exploratory data analysis
-- [ ] Power BI dashboard development
-- [ ] Final business recommendations and project report
+- [x] Power BI dashboard development
+- [x] Final business recommendations and project report
 
 ## Expected Business Outcomes
 
